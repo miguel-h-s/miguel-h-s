@@ -2,7 +2,7 @@
 Apaixonado por **Go** e  sistemas **Back-end**, focado em aprender coisas novas!
 
 <div align="center">
-  <img src="gopher.png" alt="Gopher Logo" width="150">
+  <img src="https://img.shields.io/badge/Go-GoLang-blue?style=for-the-badge&logoColor=white" alt="Go Logo" width="150">
 </div>
 
 ## Tecnologias que domino/aprendo
